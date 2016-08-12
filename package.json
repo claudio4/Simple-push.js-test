@@ -1,0 +1,21 @@
+{
+  "name": "pushtest",
+  "version": "1.0.0",
+  "description": "Simple push.js test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PushJS",
+    "Test"
+  ],
+  "author": "Claudio4 <me@claudio4.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  },
+  "dependencies": {
+    "push.js": "0.0.10"
+  }
+}
