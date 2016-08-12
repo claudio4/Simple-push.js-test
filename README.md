@@ -6,7 +6,7 @@ You need NodeJS and NPM for run the web server also you need bower.
 
 Please use the next command for install dependencies.
 ```
-$ npm install
+$ npm install && bower install
 ```
 After that you can run the next command for start the webserver.
 ```
